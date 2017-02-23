@@ -1,21 +1,21 @@
 # cordova-gulp-angular
 
-npm install -g cordova
-  installs cordova normally to inorder to perform cordova related commands.
-cordova platform add ios / cordova platform add android
-  add the corresponding platform to your cordova app.
-  make sure you are in the 'mobile' directory when you perform any commands related to cordova.
-cordova build ios / cordova run android.
-  Build the android/ios project.
-cordova run ios / cordova run android
-  Runs the application in the device / emulator - which ever is selected as target.
-  
-IOS  
-~install Xcode if not already installed.
-xcode-select —install
-npm install ios-deploy -g
+<b>npm install -g cordova</b><br/>
+  installs cordova normally to inorder to perform cordova related commands.<br/>
+<b>cordova platform add ios / cordova platform add android</b><br/>
+  add the corresponding platform to your cordova app.<br/>
+  make sure you are in the 'mobile' directory when you perform any commands related to cordova.<br/>
+<b>cordova build ios / cordova run android.</b><br/>
+  Build the android/ios project.<br/>
+<b>cordova run ios / cordova run android</b><br/>
+  Runs the application in the device / emulator - which ever is selected as target.<br/>
+<br/><br/>  
+<b>IOS</b>  <br/>
+~install Xcode if not already installed.<br/>
+xcode-select —install<br/>
+npm install ios-deploy -g<br/>
+<br/>
 
-
-ANDROID
-install android studio
-install all sdk and api level packages
+<b>ANDROID</b><br/>
+install android studio<br/>
+install all sdk and api level packages<br/>
