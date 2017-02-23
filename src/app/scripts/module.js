@@ -4,4 +4,4 @@
 
 'use strict';
 
-angular.module('sampleApp', ['ui.router', 'toastr', 'smart-table', 'ngSanitize', 'ngCookies']);
+var app = angular.module('sampleApp', ['ui.router', 'toastr', 'smart-table', 'ngSanitize', 'ngCookies']);

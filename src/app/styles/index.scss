@@ -34,10 +34,12 @@ hr {
 .center {
   text-align: center;
 }
-
-
+.errMessage {
+  color:red;
+}
 
 // import files here
+@import "font-awesome.scss";@import "login.scss";
 
 /* Do not remove the comments below. It's the markers used by gulp-inject to inject
    all your sass files automatically */
